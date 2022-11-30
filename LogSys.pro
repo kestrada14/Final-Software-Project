@@ -15,11 +15,13 @@ TEMPLATE = app
 SOURCES += main.cpp\
     bank.cpp \
         loginsystem.cpp \
-    qdb.cpp
+    qdb.cpp \
+       databasehandler.cpp
 
 HEADERS  += loginsystem.h \
     bank.h \
-    qdb.h
+    qdb.h   \
+        databasehandler.h
 
 FORMS    += loginsystem.ui
 
