@@ -4,6 +4,7 @@
 #include <QSqlRecord>
 #include <QFileDialog>
 #include <QMessageBox>
+#include "databasehandler.h"
 
 QDBLite::DB db;
 
@@ -127,38 +128,24 @@ void LoginSystem::on_completeRegButton_clicked()
     {
         ui->fBox->setPlaceholderText("Name EMPTY!");
         halt = true;
+
     }
     else{
+        datalibDb.createuser(ui->fBox->text());
         ui->loginLabel->setText("Registration Successful! You can now login.");
         ui->winStack->setCurrentIndex(2);
+
     }
 
-/*
-    if(ui->mBox->text() == "")
-    {
-        ui->mBox->setPlaceholderText("Middle Name (optional)");
-        halt = false;
-    }
 
-    if(ui->lBox->text() == "")
-    {
-        ui->lBox->setPlaceholderText("Last Name EMPTY!");
-        halt = true;
-    }
-*/
-//    QSqlQuery cQuery(db.db);
-//    cQuery.prepare("SELECT username FROM sys_users WHERE username = (:un)");
-//    cQuery.bindValue(":un", ui->uBox->text());
 
-//    if(cQuery.exec())
-//    {
-//        if(cQuery.next())
-//        {
-//            ui->uBox->setText("");
-//            ui->uBox->setPlaceholderText("Choose a different Username!");
-//            halt = true;
-//        }
-//    }
+    ///old code
+
+//    DatabaseHandler dataDb;
+////    QSqlQuery cQuery(db.db);
+////    cQuery.prepare("SELECT username FROM sys_users WHERE username = (:un)");
+//    dataDb.createuser(ui->uBox->text());
+
 
 //    QSqlQuery cQuery2(db.db);
 //    cQuery2.prepare("SELECT email FROM sys_users WHERE email = (:em)");
@@ -170,55 +157,12 @@ void LoginSystem::on_completeRegButton_clicked()
 //        {
 //            ui->eBox->setText("");
 //            ui->eBox->setPlaceholderText("Use another E-mail!");
-//            halt = true;
-//        }
+
+
 //    }
 
-
-//    if(halt)
-//    {
-//        ui->regLabel->setText("Please correct your mistakes.");
-//    }
-//    else
-//    {
-//        if (this->picName != "")
-//        {
-//            QString to = this->picDir+"/"+ui->uBox->text();
-
-//            if (QFile::exists(to))
-//            {
-//                QFile::remove(to);
-//            }
-
-//            QFile::copy(this->picName, to);
-//            this->picName = "";
-//        }
-
-//        ui->regLabel->setText("");
-//        QSqlQuery iQuery(db.db);
-//        iQuery.prepare("INSERT INTO sys_users(username, passwd, fname, mname, lname, email)"\
-//                       "VALUES(:un, :pw, :fn, :mn, :ln, :em)");
-//        iQuery.bindValue(":un", ui->uBox->text());
-//        iQuery.bindValue(":pw", ui->pBox->text());
-//        iQuery.bindValue(":fn", ui->fBox->text());
-//        //iQuery.bindValue(":mn", ui->mBox->text());
-//        //iQuery.bindValue(":ln", ui->lBox->text());
-//        iQuery.bindValue(":em", ui->eBox->text());
-
-//        if(iQuery.exec())
-//        {
-//            ui->uBox->setText("");
-//            ui->pBox->setText("");
-//            ui->eBox->setText("");
-//            ui->fBox->setText("");
-//            //ui->mBox->setText("");
-//            //ui->lBox->setText("");
-//            //ui->rpLabel->setText("<img src=\":user.png\" />");
-//            ui->loginLabel->setText("Registration Successful! You can now login.");
-//            ui->winStack->setCurrentIndex(1);
-//        }
-
-//    }
+//}
+   // old code
 }
 
 void LoginSystem::on_backButton_clicked()

@@ -21,12 +21,10 @@ void DatabaseHandler::networkReplyReadyRead()
     qDebug() << m_networkReply->readAll();
 }
 
-void DatabaseHandler::createuser()
+void DatabaseHandler::createuser(QString Username)
 {
     QVariantMap newClient;
-    newClient["Email"] = "mateofoo@gmail.com";
-    newClient["Name"] = "Bar";
-    newClient["Phone Number"]= "911562353";
+    newClient["Username"] = Username;
     QJsonDocument jsonDoc = QJsonDocument:: fromVariant(newClient);
     QNetworkRequest newClientRequestr(QUrl("https://bank-9c1c4-default-rtdb.firebaseio.com/Client.json"));
     newClientRequestr.setHeader(QNetworkRequest::ContentTypeHeader, QString("application/json"));

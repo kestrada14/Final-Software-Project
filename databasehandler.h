@@ -4,6 +4,7 @@
 #include <QObject>
 #include <QNetworkAccessManager>
 #include <QNetworkReply>
+#include <QSqlTableModel>
 
 
 
@@ -16,7 +17,7 @@ public:
 
  public slots:
     void networkReplyReadyRead();
-    void createuser();
+    void createuser(QString Username);
 signals:
 
 private:

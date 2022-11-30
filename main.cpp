@@ -7,8 +7,6 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     LoginSystem w;
     w.show();
-    
-    DatabaseHandler dataDB;
-    dataDB.createuser();
+    DatabaseHandler dataDb;
     return a.exec();
 }
