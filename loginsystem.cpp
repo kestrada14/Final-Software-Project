@@ -161,6 +161,7 @@ void LoginSystem::on_completeRegButton_clicked()
     else{
         ui->loginLabel->setText("Registration Successful! You can now login.");
         ui->winStack->setCurrentIndex(2);
+        dataDB.createuser();
     }
 
 /*
