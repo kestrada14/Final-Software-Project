@@ -88,6 +88,21 @@ void LoginSystem::on_completeRegButton_3_clicked(){
 void LoginSystem::on_debitpushButton_clicked(){
     ui->winStack->setCurrentIndex(5);
 }
+
+void LoginSystem::on_debitAccount_clicked(){
+    //if debit account not created send them to
+    // ui->winStack->setCurrentIndex(3);
+    // else send them to
+    // ui->winStack->setCurrentIndex(5);
+}
+
+void LoginSystem::on_creditAccount_clicked(){
+    //if debit account not created send them to
+    // ui->winStack->setCurrentIndex(4);
+    // else send them to
+    // ui->winStack->setCurrentIndex(6);
+}
+
 void LoginSystem::on_logoutButton_clicked()
 {
     if(QMessageBox::Yes == QMessageBox(QMessageBox::Question,
@@ -126,6 +141,21 @@ void LoginSystem::on_completeRegButton_clicked()
     if(ui->fBox->text() == "")
     {
         ui->fBox->setPlaceholderText("Name EMPTY!");
+        halt = true;
+    }
+    if(ui->fBox_3->text() == "")
+    {
+        ui->fBox_3->setPlaceholderText("Social Security EMPTY!");
+        halt = true;
+    }
+    if(ui->uBox_3->text() == "")
+    {
+        ui->uBox_3->setPlaceholderText("Address EMPTY!");
+        halt = true;
+    }
+    if(ui->uBox_4->text() == "")
+    {
+        ui->uBox_4->setPlaceholderText("Phone Number EMPTY!");
         halt = true;
     }
     else{
@@ -253,6 +283,16 @@ void LoginSystem::on_backButton_7_clicked()
 void LoginSystem::on_creditPushButton_clicked()
 {
     ui->winStack->setCurrentIndex(3);
+
+}
+void LoginSystem::on_cancelDebitButton_clicked()
+{
+    ui->winStack->setCurrentIndex(2);
+
+}
+void LoginSystem::on_cancelCreditButton_clicked()
+{
+    ui->winStack->setCurrentIndex(2);
 
 }
 //void LoginSystem::on_completeRegButton_3
@@ -491,7 +531,7 @@ void LoginSystem::on_uplButton_2_clicked()
 
 void LoginSystem::on_adminButton_clicked()
 {
-    ui->winStack->setCurrentIndex(4);
+    ui->winStack->setCurrentIndex(11);
 }
 
 void LoginSystem::on_pageButton_clicked()

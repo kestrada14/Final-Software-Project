@@ -80,6 +80,13 @@ private slots:
 
     void on_delAButton_clicked();
 
+    void on_cancelDebitButton_clicked();
+
+    void on_cancelCreditButton_clicked();
+
+    void on_creditAccount_clicked();
+    void on_debitAccount_clicked();
+
 private:
     Ui::LoginSystem *ui;
     QString username;
