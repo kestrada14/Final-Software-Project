@@ -298,7 +298,7 @@ font-family: 'Droid Sans';</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -363,7 +363,7 @@ font-family: 'Droid Sans';</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -428,7 +428,7 @@ font-family: 'Droid Sans';</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -528,7 +528,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -593,7 +593,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -658,7 +658,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -835,7 +835,7 @@ Color: #fefefe;</string>
        <widget class="QGroupBox" name="groupBox">
         <property name="geometry">
          <rect>
-          <x>220</x>
+          <x>60</x>
           <y>120</y>
           <width>301</width>
           <height>251</height>
@@ -906,7 +906,7 @@ Color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -971,7 +971,7 @@ Color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1036,7 +1036,7 @@ Color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1142,7 +1142,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1207,7 +1207,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1272,7 +1272,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1378,7 +1378,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1443,7 +1443,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1508,7 +1508,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1614,7 +1614,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1679,7 +1679,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1744,7 +1744,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1844,7 +1844,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1909,7 +1909,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1974,7 +1974,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2074,7 +2074,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2139,7 +2139,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2204,7 +2204,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2304,7 +2304,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2369,7 +2369,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2434,7 +2434,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2481,926 +2481,30 @@ color: #fefefe;</string>
          </item>
         </layout>
        </widget>
-      </widget>
-     </widget>
-     <widget class="QWidget" name="page_7">
-      <widget class="QFrame" name="frame_10">
-       <property name="geometry">
-        <rect>
-         <x>0</x>
-         <y>0</y>
-         <width>751</width>
-         <height>451</height>
-        </rect>
-       </property>
-       <property name="styleSheet">
-        <string notr="true">background: #101010;</string>
-       </property>
-       <property name="frameShape">
-        <enum>QFrame::StyledPanel</enum>
-       </property>
-       <property name="frameShadow">
-        <enum>QFrame::Raised</enum>
-       </property>
-       <widget class="QLabel" name="label_7">
+       <widget class="QGroupBox" name="groupBox_3">
         <property name="geometry">
          <rect>
-          <x>258</x>
-          <y>24</y>
-          <width>223</width>
-          <height>41</height>
-         </rect>
-        </property>
-        <property name="font">
-         <font>
-          <family>Droid Sans</family>
-          <pointsize>-1</pointsize>
-         </font>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">text-align: center;
-color: #393;
-margin: 0 auto;
-font-size: 35px;
-font-family: 'Droid Sans';</string>
-        </property>
-        <property name="text">
-         <string>Register</string>
-        </property>
-       </widget>
-       <widget class="QPushButton" name="backButton_3">
-        <property name="geometry">
-         <rect>
-          <x>40</x>
-          <y>400</y>
-          <width>171</width>
-          <height>21</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #933;
-Color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>BACK </string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="regLabel_3">
-        <property name="geometry">
-         <rect>
-          <x>20</x>
-          <y>70</y>
-          <width>601</width>
-          <height>16</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>Please fill the form correctly.</string>
-        </property>
-       </widget>
-       <widget class="QGroupBox" name="groupBox_2">
-        <property name="geometry">
-         <rect>
-          <x>220</x>
-          <y>120</y>
-          <width>301</width>
+          <x>400</x>
+          <y>110</y>
+          <width>321</width>
           <height>251</height>
          </rect>
         </property>
         <property name="title">
          <string/>
         </property>
-        <layout class="QVBoxLayout" name="verticalLayout_3">
+        <layout class="QVBoxLayout" name="verticalLayout_4">
          <item>
-          <widget class="QPushButton" name="debitpushButton">
-           <property name="text">
-            <string>Debit/Savings</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QPushButton" name="creditPushButton">
-           <property name="text">
-            <string>Credit</string>
-           </property>
-          </widget>
-         </item>
-        </layout>
-       </widget>
-      </widget>
-     </widget>
-     <widget class="QWidget" name="page_11">
-      <widget class="QFrame" name="frame_14">
-       <property name="geometry">
-        <rect>
-         <x>0</x>
-         <y>0</y>
-         <width>751</width>
-         <height>451</height>
-        </rect>
-       </property>
-       <property name="styleSheet">
-        <string notr="true">background: #101010;</string>
-       </property>
-       <property name="frameShape">
-        <enum>QFrame::StyledPanel</enum>
-       </property>
-       <property name="frameShadow">
-        <enum>QFrame::Raised</enum>
-       </property>
-       <widget class="QLabel" name="label_11">
-        <property name="geometry">
-         <rect>
-          <x>258</x>
-          <y>24</y>
-          <width>223</width>
-          <height>41</height>
-         </rect>
-        </property>
-        <property name="font">
-         <font>
-          <family>Droid Sans</family>
-          <pointsize>-1</pointsize>
-         </font>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">text-align: center;
-color: #393;
-margin: 0 auto;
-font-size: 35px;
-font-family: 'Droid Sans';</string>
-        </property>
-        <property name="text">
-         <string>Register</string>
-        </property>
-       </widget>
-       <widget class="QPushButton" name="backButton_7">
-        <property name="geometry">
-         <rect>
-          <x>40</x>
-          <y>400</y>
-          <width>171</width>
-          <height>21</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #933;
-Color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>BACK </string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="regLabel_5">
-        <property name="geometry">
-         <rect>
-          <x>20</x>
-          <y>70</y>
-          <width>601</width>
-          <height>16</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>Please fill the form correctly.</string>
-        </property>
-       </widget>
-       <widget class="QGroupBox" name="groupBox_5">
-        <property name="geometry">
-         <rect>
-          <x>220</x>
-          <y>120</y>
-          <width>301</width>
-          <height>251</height>
-         </rect>
-        </property>
-        <property name="title">
-         <string>Enter Credit Score:</string>
-        </property>
-        <layout class="QVBoxLayout" name="verticalLayout_6">
-         <item>
-          <widget class="QLineEdit" name="usernameBox_2">
-           <property name="palette">
-            <palette>
-             <active>
-              <colorrole role="WindowText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Button">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Text">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="ButtonText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Base">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Window">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="PlaceholderText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-             </active>
-             <inactive>
-              <colorrole role="WindowText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Button">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Text">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="ButtonText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Base">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Window">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="PlaceholderText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-             </inactive>
-             <disabled>
-              <colorrole role="WindowText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Button">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Text">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="ButtonText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Base">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Window">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="PlaceholderText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-             </disabled>
-            </palette>
-           </property>
-           <property name="font">
-            <font>
-             <kerning>true</kerning>
-            </font>
-           </property>
-           <property name="layoutDirection">
-            <enum>Qt::LeftToRight</enum>
-           </property>
-           <property name="styleSheet">
-            <string notr="true">padding-left: 20px;
-padding-right: 20px;
-border-radius: 20px;
-background: #333;
-color: #fefefe;</string>
-           </property>
+          <widget class="QLineEdit" name="lineEdit">
            <property name="text">
             <string/>
            </property>
-           <property name="frame">
-            <bool>false</bool>
-           </property>
-           <property name="cursorPosition">
-            <number>0</number>
-           </property>
            <property name="placeholderText">
-            <string>Credit Score</string>
+            <string>Enter Deposit:</string>
            </property>
           </widget>
          </item>
         </layout>
-       </widget>
-       <widget class="QPushButton" name="completeRegButton_2">
-        <property name="geometry">
-         <rect>
-          <x>550</x>
-          <y>400</y>
-          <width>171</width>
-          <height>21</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #393;
-Color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>Next</string>
-        </property>
-       </widget>
-      </widget>
-     </widget>
-     <widget class="QWidget" name="page_10">
-      <widget class="QFrame" name="frame_13">
-       <property name="geometry">
-        <rect>
-         <x>0</x>
-         <y>0</y>
-         <width>751</width>
-         <height>451</height>
-        </rect>
-       </property>
-       <property name="styleSheet">
-        <string notr="true">background: #101010;</string>
-       </property>
-       <property name="frameShape">
-        <enum>QFrame::StyledPanel</enum>
-       </property>
-       <property name="frameShadow">
-        <enum>QFrame::Raised</enum>
-       </property>
-       <widget class="QLabel" name="label_10">
-        <property name="geometry">
-         <rect>
-          <x>258</x>
-          <y>24</y>
-          <width>223</width>
-          <height>41</height>
-         </rect>
-        </property>
-        <property name="font">
-         <font>
-          <family>Droid Sans</family>
-          <pointsize>-1</pointsize>
-         </font>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">text-align: center;
-color: #393;
-margin: 0 auto;
-font-size: 35px;
-font-family: 'Droid Sans';</string>
-        </property>
-        <property name="text">
-         <string>Register</string>
-        </property>
-       </widget>
-       <widget class="QPushButton" name="backButton_4">
-        <property name="geometry">
-         <rect>
-          <x>40</x>
-          <y>400</y>
-          <width>171</width>
-          <height>21</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #933;
-Color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>BACK </string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="regLabel_4">
-        <property name="geometry">
-         <rect>
-          <x>20</x>
-          <y>70</y>
-          <width>601</width>
-          <height>16</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>Please fill the form correctly.</string>
-        </property>
-       </widget>
-       <widget class="QGroupBox" name="groupBox_3">
-        <property name="geometry">
-         <rect>
-          <x>220</x>
-          <y>120</y>
-          <width>301</width>
-          <height>251</height>
-         </rect>
-        </property>
-        <property name="title">
-         <string>Eligible For:</string>
-        </property>
-        <layout class="QVBoxLayout" name="verticalLayout_4">
-         <item>
-          <widget class="QPushButton" name="pushButton_4">
-           <property name="text">
-            <string>Silver</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QPushButton" name="pushButton_5">
-           <property name="text">
-            <string>Gold</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QPushButton" name="pushButton_6">
-           <property name="text">
-            <string>Platnium</string>
-           </property>
-          </widget>
-         </item>
-        </layout>
-       </widget>
-      </widget>
-     </widget>
-     <widget class="QWidget" name="page_8">
-      <widget class="QFrame" name="frame_15">
-       <property name="geometry">
-        <rect>
-         <x>0</x>
-         <y>0</y>
-         <width>751</width>
-         <height>451</height>
-        </rect>
-       </property>
-       <property name="styleSheet">
-        <string notr="true">background: #101010;</string>
-       </property>
-       <property name="frameShape">
-        <enum>QFrame::StyledPanel</enum>
-       </property>
-       <property name="frameShadow">
-        <enum>QFrame::Raised</enum>
-       </property>
-       <widget class="QLabel" name="label_12">
-        <property name="geometry">
-         <rect>
-          <x>258</x>
-          <y>24</y>
-          <width>223</width>
-          <height>41</height>
-         </rect>
-        </property>
-        <property name="font">
-         <font>
-          <family>Droid Sans</family>
-          <pointsize>-1</pointsize>
-         </font>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">text-align: center;
-color: #393;
-margin: 0 auto;
-font-size: 35px;
-font-family: 'Droid Sans';</string>
-        </property>
-        <property name="text">
-         <string>Register</string>
-        </property>
-       </widget>
-       <widget class="QPushButton" name="backButton_8">
-        <property name="geometry">
-         <rect>
-          <x>40</x>
-          <y>400</y>
-          <width>171</width>
-          <height>21</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #933;
-Color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>BACK </string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="regLabel_6">
-        <property name="geometry">
-         <rect>
-          <x>20</x>
-          <y>70</y>
-          <width>601</width>
-          <height>16</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>Please fill the form correctly.</string>
-        </property>
-       </widget>
-       <widget class="QGroupBox" name="groupBox_6">
-        <property name="geometry">
-         <rect>
-          <x>220</x>
-          <y>120</y>
-          <width>301</width>
-          <height>251</height>
-         </rect>
-        </property>
-        <property name="title">
-         <string>Enter Credit Score:</string>
-        </property>
-        <layout class="QVBoxLayout" name="verticalLayout_7">
-         <item>
-          <widget class="QLineEdit" name="usernameBox_3">
-           <property name="palette">
-            <palette>
-             <active>
-              <colorrole role="WindowText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Button">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Text">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="ButtonText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Base">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Window">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="PlaceholderText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-             </active>
-             <inactive>
-              <colorrole role="WindowText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Button">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Text">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="ButtonText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Base">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Window">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="PlaceholderText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-             </inactive>
-             <disabled>
-              <colorrole role="WindowText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Button">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Text">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="ButtonText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Base">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="Window">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>51</red>
-                 <green>51</green>
-                 <blue>51</blue>
-                </color>
-               </brush>
-              </colorrole>
-              <colorrole role="PlaceholderText">
-               <brush brushstyle="SolidPattern">
-                <color alpha="255">
-                 <red>254</red>
-                 <green>254</green>
-                 <blue>254</blue>
-                </color>
-               </brush>
-              </colorrole>
-             </disabled>
-            </palette>
-           </property>
-           <property name="font">
-            <font>
-             <kerning>true</kerning>
-            </font>
-           </property>
-           <property name="layoutDirection">
-            <enum>Qt::LeftToRight</enum>
-           </property>
-           <property name="styleSheet">
-            <string notr="true">padding-left: 20px;
-padding-right: 20px;
-border-radius: 20px;
-background: #333;
-color: #fefefe;</string>
-           </property>
-           <property name="text">
-            <string>Enter Deposit</string>
-           </property>
-           <property name="frame">
-            <bool>false</bool>
-           </property>
-           <property name="cursorPosition">
-            <number>13</number>
-           </property>
-           <property name="placeholderText">
-            <string>Credit Score</string>
-           </property>
-          </widget>
-         </item>
-        </layout>
-       </widget>
-       <widget class="QPushButton" name="completeRegButton_3">
-        <property name="geometry">
-         <rect>
-          <x>550</x>
-          <y>400</y>
-          <width>171</width>
-          <height>21</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #393;
-Color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>Next</string>
-        </property>
        </widget>
       </widget>
      </widget>
@@ -3452,8 +2556,8 @@ font-family: 'Droid Sans';</string>
        <widget class="QPushButton" name="logoutButton">
         <property name="geometry">
          <rect>
-          <x>570</x>
-          <y>150</y>
+          <x>590</x>
+          <y>50</y>
           <width>151</width>
           <height>21</height>
          </rect>
@@ -3534,30 +2638,11 @@ font-weight: bold;</string>
          <string/>
         </property>
        </widget>
-       <widget class="QPushButton" name="editButton">
-        <property name="geometry">
-         <rect>
-          <x>570</x>
-          <y>180</y>
-          <width>151</width>
-          <height>21</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #393;
-Color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>EDIT MY PROFILE</string>
-        </property>
-       </widget>
        <widget class="QPushButton" name="delButton">
         <property name="geometry">
          <rect>
-          <x>570</x>
-          <y>212</y>
+          <x>590</x>
+          <y>80</y>
           <width>151</width>
           <height>21</height>
          </rect>
@@ -3623,28 +2708,12 @@ font-weight: bold;</string>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
         </property>
-        <widget class="QLabel" name="loggedPic">
-         <property name="geometry">
-          <rect>
-           <x>0</x>
-           <y>0</y>
-           <width>128</width>
-           <height>128</height>
-          </rect>
-         </property>
-         <property name="styleSheet">
-          <string notr="true"/>
-         </property>
-         <property name="text">
-          <string>&lt;img src=&quot;:user.png&quot; /&gt;</string>
-         </property>
-        </widget>
        </widget>
        <widget class="QPushButton" name="adminButton">
         <property name="geometry">
          <rect>
-          <x>570</x>
-          <y>118</y>
+          <x>590</x>
+          <y>20</y>
           <width>151</width>
           <height>21</height>
          </rect>
@@ -3659,31 +2728,174 @@ Color: #fefefe;</string>
          <string>ADMIN PANEL</string>
         </property>
        </widget>
-       <widget class="QPushButton" name="creditAccount">
+       <widget class="QLabel" name="loggedUserHeader_6">
         <property name="geometry">
          <rect>
-          <x>300</x>
-          <y>180</y>
-          <width>151</width>
-          <height>21</height>
+          <x>170</x>
+          <y>70</y>
+          <width>381</width>
+          <height>41</height>
          </rect>
         </property>
+        <property name="font">
+         <font>
+          <family>Droid Sans</family>
+          <pointsize>-1</pointsize>
+         </font>
+        </property>
         <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #339;
-Color: #fefefe;</string>
+         <string notr="true">text-align: center;
+color: #393;
+margin: 0 auto;
+font-size: 35px;
+font-family: 'Droid Sans';</string>
         </property>
         <property name="text">
-         <string>Credit</string>
+         <string>Checkings Account</string>
         </property>
        </widget>
-       <widget class="QPushButton" name="debitAccount">
+       <widget class="QWidget" name="layoutWidget_6">
         <property name="geometry">
          <rect>
-          <x>300</x>
-          <y>150</y>
-          <width>151</width>
+          <x>170</x>
+          <y>120</y>
+          <width>401</width>
+          <height>51</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_8">
+         <item>
+          <widget class="QLabel" name="labelDepositWithdrAmount_6">
+           <property name="text">
+            <string>Deposit/Withdrawal Amount:</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEditDepWithdr_6">
+           <property name="inputMask">
+            <string/>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="clearButtonEnabled">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QComboBox" name="comboBoxMode_5">
+           <property name="currentText">
+            <string/>
+           </property>
+           <property name="maxVisibleItems">
+            <number>2</number>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QPushButton" name="pushButtonSubmit_4">
+        <property name="geometry">
+         <rect>
+          <x>410</x>
+          <y>190</y>
+          <width>75</width>
+          <height>23</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Submit</string>
+        </property>
+        <property name="autoDefault">
+         <bool>false</bool>
+        </property>
+        <property name="default">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QLabel" name="labelTotal_10">
+        <property name="geometry">
+         <rect>
+          <x>240</x>
+          <y>190</y>
+          <width>111</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Total: $0.00</string>
+        </property>
+       </widget>
+       <zorder>frame_6</zorder>
+       <zorder>loggedUserHeader</zorder>
+       <zorder>logoutButton</zorder>
+       <zorder>label_3</zorder>
+       <zorder>label_4</zorder>
+       <zorder>nameLabel</zorder>
+       <zorder>rankLabel</zorder>
+       <zorder>delButton</zorder>
+       <zorder>label_6</zorder>
+       <zorder>emailLabel</zorder>
+       <zorder>adminButton</zorder>
+       <zorder>loggedUserHeader_6</zorder>
+       <zorder>layoutWidget_6</zorder>
+       <zorder>pushButtonSubmit_4</zorder>
+       <zorder>labelTotal_10</zorder>
+      </widget>
+     </widget>
+     <widget class="QWidget" name="page_7">
+      <widget class="QFrame" name="frame_10">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>751</width>
+         <height>451</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background: #101010;</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <widget class="QLabel" name="label_7">
+        <property name="geometry">
+         <rect>
+          <x>138</x>
+          <y>24</y>
+          <width>581</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Droid Sans</family>
+          <pointsize>-1</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">text-align: center;
+color: #393;
+margin: 0 auto;
+font-size: 35px;
+font-family: 'Droid Sans';</string>
+        </property>
+        <property name="text">
+         <string>Create Debit/Savings Account</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="completeRegButton_2">
+        <property name="geometry">
+         <rect>
+          <x>540</x>
+          <y>400</y>
+          <width>171</width>
           <height>21</height>
          </rect>
         </property>
@@ -3694,23 +2906,195 @@ Background: #393;
 Color: #fefefe;</string>
         </property>
         <property name="text">
-         <string>Debit/Savings</string>
+         <string>Create</string>
         </property>
        </widget>
-       <zorder>frame_6</zorder>
-       <zorder>loggedUserHeader</zorder>
-       <zorder>logoutButton</zorder>
-       <zorder>label_3</zorder>
-       <zorder>label_4</zorder>
-       <zorder>nameLabel</zorder>
-       <zorder>rankLabel</zorder>
-       <zorder>editButton</zorder>
-       <zorder>delButton</zorder>
-       <zorder>label_6</zorder>
-       <zorder>emailLabel</zorder>
-       <zorder>adminButton</zorder>
-       <zorder>creditAccount</zorder>
-       <zorder>debitAccount</zorder>
+       <widget class="QPushButton" name="cancelDebitButton">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>400</y>
+          <width>171</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">Padding: 1px;
+Border-radius: 5px;
+Background: #933;
+Color: #fefefe;</string>
+        </property>
+        <property name="text">
+         <string>Cancel</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="regLabel_3">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>70</y>
+          <width>601</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: #fefefe;</string>
+        </property>
+        <property name="text">
+         <string>Please fill the form correctly.</string>
+        </property>
+       </widget>
+       <widget class="QGroupBox" name="groupBox_5">
+        <property name="geometry">
+         <rect>
+          <x>220</x>
+          <y>110</y>
+          <width>321</width>
+          <height>251</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string/>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_6">
+         <item>
+          <widget class="QLineEdit" name="lineEdit_2">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="placeholderText">
+            <string>Enter Deposit:</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </widget>
+     <widget class="QWidget" name="page_8">
+      <widget class="QFrame" name="frame_13">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>751</width>
+         <height>451</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background: #101010;</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <widget class="QLabel" name="label_9">
+        <property name="geometry">
+         <rect>
+          <x>138</x>
+          <y>24</y>
+          <width>581</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Droid Sans</family>
+          <pointsize>-1</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">text-align: center;
+color: #393;
+margin: 0 auto;
+font-size: 35px;
+font-family: 'Droid Sans';</string>
+        </property>
+        <property name="text">
+         <string>Create Credit</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="completeRegButton_3">
+        <property name="geometry">
+         <rect>
+          <x>540</x>
+          <y>400</y>
+          <width>171</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">Padding: 1px;
+Border-radius: 5px;
+Background: #393;
+Color: #fefefe;</string>
+        </property>
+        <property name="text">
+         <string>Create</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="cancelCreditButton">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>400</y>
+          <width>171</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">Padding: 1px;
+Border-radius: 5px;
+Background: #933;
+Color: #fefefe;</string>
+        </property>
+        <property name="text">
+         <string>Cancel</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="regLabel_4">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>70</y>
+          <width>601</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: #fefefe;</string>
+        </property>
+        <property name="text">
+         <string>Please fill the form correctly.</string>
+        </property>
+       </widget>
+       <widget class="QGroupBox" name="groupBox_6">
+        <property name="geometry">
+         <rect>
+          <x>220</x>
+          <y>110</y>
+          <width>321</width>
+          <height>251</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string/>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_7">
+         <item>
+          <widget class="QLineEdit" name="lineEdit_3">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="placeholderText">
+            <string>Enter Credit:</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
       </widget>
      </widget>
      <widget class="QWidget" name="page_9">
@@ -3870,48 +3254,6 @@ font-family: 'Droid Sans';</string>
          <bool>false</bool>
         </property>
        </widget>
-       <widget class="QLabel" name="labelDate">
-        <property name="geometry">
-         <rect>
-          <x>307</x>
-          <y>150</y>
-          <width>27</width>
-          <height>16</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string>Date:</string>
-        </property>
-       </widget>
-       <widget class="QWidget" name="layoutWidget2">
-        <property name="geometry">
-         <rect>
-          <x>276</x>
-          <y>89</y>
-          <width>198</width>
-          <height>24</height>
-         </rect>
-        </property>
-        <layout class="QHBoxLayout" name="horizontalLayout_3">
-         <item>
-          <widget class="QLabel" name="labelDescription">
-           <property name="text">
-            <string>Description:</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLineEdit" name="lineEditDescription">
-           <property name="frame">
-            <bool>true</bool>
-           </property>
-           <property name="clearButtonEnabled">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-        </layout>
-       </widget>
        <widget class="QLabel" name="labelTotal">
         <property name="geometry">
          <rect>
@@ -3928,10 +3270,10 @@ font-family: 'Droid Sans';</string>
        <widget class="QWidget" name="layoutWidget">
         <property name="geometry">
          <rect>
-          <x>196</x>
-          <y>119</y>
-          <width>354</width>
-          <height>32</height>
+          <x>190</x>
+          <y>90</y>
+          <width>401</width>
+          <height>61</height>
          </rect>
         </property>
         <layout class="QHBoxLayout" name="horizontalLayout_2">
@@ -3967,50 +3309,6 @@ font-family: 'Droid Sans';</string>
          </item>
         </layout>
        </widget>
-       <widget class="QDateEdit" name="dateEdit">
-        <property name="geometry">
-         <rect>
-          <x>340</x>
-          <y>150</y>
-          <width>131</width>
-          <height>20</height>
-         </rect>
-        </property>
-        <property name="sizePolicy">
-         <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
-          <horstretch>0</horstretch>
-          <verstretch>0</verstretch>
-         </sizepolicy>
-        </property>
-        <property name="wrapping">
-         <bool>true</bool>
-        </property>
-        <property name="readOnly">
-         <bool>false</bool>
-        </property>
-        <property name="accelerated">
-         <bool>true</bool>
-        </property>
-        <property name="showGroupSeparator" stdset="0">
-         <bool>false</bool>
-        </property>
-        <property name="minimumDate">
-         <date>
-          <year>1951</year>
-          <month>1</month>
-          <day>1</day>
-         </date>
-        </property>
-        <property name="currentSection">
-         <enum>QDateTimeEdit::MonthSection</enum>
-        </property>
-        <property name="displayFormat">
-         <string>MM/dd/yyyy</string>
-        </property>
-        <property name="calendarPopup">
-         <bool>true</bool>
-        </property>
-       </widget>
        <widget class="QPushButton" name="pushButtonSubmit_2">
         <property name="geometry">
          <rect>
@@ -4030,48 +3328,6 @@ font-family: 'Droid Sans';</string>
          <bool>false</bool>
         </property>
        </widget>
-       <widget class="QLabel" name="labelDate_2">
-        <property name="geometry">
-         <rect>
-          <x>297</x>
-          <y>340</y>
-          <width>27</width>
-          <height>16</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string>Date:</string>
-        </property>
-       </widget>
-       <widget class="QWidget" name="layoutWidget2_2">
-        <property name="geometry">
-         <rect>
-          <x>266</x>
-          <y>279</y>
-          <width>198</width>
-          <height>24</height>
-         </rect>
-        </property>
-        <layout class="QHBoxLayout" name="horizontalLayout_4">
-         <item>
-          <widget class="QLabel" name="labelDescription_2">
-           <property name="text">
-            <string>Description:</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLineEdit" name="lineEditDescription_2">
-           <property name="frame">
-            <bool>true</bool>
-           </property>
-           <property name="clearButtonEnabled">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-        </layout>
-       </widget>
        <widget class="QLabel" name="labelTotal_2">
         <property name="geometry">
          <rect>
@@ -4088,10 +3344,10 @@ font-family: 'Droid Sans';</string>
        <widget class="QWidget" name="layoutWidget_2">
         <property name="geometry">
          <rect>
-          <x>186</x>
-          <y>309</y>
-          <width>354</width>
-          <height>32</height>
+          <x>190</x>
+          <y>280</y>
+          <width>401</width>
+          <height>51</height>
          </rect>
         </property>
         <layout class="QHBoxLayout" name="horizontalLayout_5">
@@ -4126,50 +3382,6 @@ font-family: 'Droid Sans';</string>
           </widget>
          </item>
         </layout>
-       </widget>
-       <widget class="QDateEdit" name="dateEdit_2">
-        <property name="geometry">
-         <rect>
-          <x>330</x>
-          <y>340</y>
-          <width>131</width>
-          <height>20</height>
-         </rect>
-        </property>
-        <property name="sizePolicy">
-         <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
-          <horstretch>0</horstretch>
-          <verstretch>0</verstretch>
-         </sizepolicy>
-        </property>
-        <property name="wrapping">
-         <bool>true</bool>
-        </property>
-        <property name="readOnly">
-         <bool>false</bool>
-        </property>
-        <property name="accelerated">
-         <bool>true</bool>
-        </property>
-        <property name="showGroupSeparator" stdset="0">
-         <bool>false</bool>
-        </property>
-        <property name="minimumDate">
-         <date>
-          <year>1951</year>
-          <month>1</month>
-          <day>1</day>
-         </date>
-        </property>
-        <property name="currentSection">
-         <enum>QDateTimeEdit::MonthSection</enum>
-        </property>
-        <property name="displayFormat">
-         <string>MM/dd/yyyy</string>
-        </property>
-        <property name="calendarPopup">
-         <bool>true</bool>
-        </property>
        </widget>
       </widget>
      </widget>
@@ -4272,14 +3484,14 @@ font-family: 'Droid Sans';</string>
        <widget class="QLabel" name="labelTotal_3">
         <property name="geometry">
          <rect>
-          <x>360</x>
+          <x>320</x>
           <y>190</y>
           <width>111</width>
           <height>16</height>
          </rect>
         </property>
         <property name="text">
-         <string>Total: $0.00</string>
+         <string>Due: $0.00</string>
         </property>
        </widget>
        <widget class="QWidget" name="layoutWidget_4">
@@ -4490,7 +3702,7 @@ font-family: 'Droid Sans';</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4555,7 +3767,7 @@ font-family: 'Droid Sans';</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4620,7 +3832,7 @@ font-family: 'Droid Sans';</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4726,7 +3938,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4791,7 +4003,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4856,7 +4068,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4987,7 +4199,7 @@ Color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5052,7 +4264,7 @@ Color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5117,7 +4329,7 @@ Color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5229,7 +4441,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5294,7 +4506,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5359,7 +4571,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5471,7 +4683,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5536,7 +4748,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5601,7 +4813,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5713,7 +4925,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5778,7 +4990,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5843,7 +5055,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>

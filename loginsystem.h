@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QCoreApplication>
 #include <QSqlTableModel>
+#include "databasehandler.h"
 
 namespace Ui {
 class LoginSystem;
@@ -21,6 +22,7 @@ public:
     QString picName;
     QString picDir = QCoreApplication::applicationDirPath()+"/../../LogSys/users/avatar";
     QSqlTableModel* tblMdl;
+    DatabaseHandler dataDB;
 
 private slots:
     void on_completeRegButton_3_clicked();
@@ -79,6 +81,17 @@ private slots:
     void on_adminBrowse_clicked();
 
     void on_delAButton_clicked();
+
+    void on_cancelDebitButton_clicked();
+
+    void on_cancelCreditButton_clicked();
+
+    void on_creditAccount_clicked();
+    void on_debitAccount_clicked();
+
+    void on_nameLabel_linkActivated(const QString &link);
+
+    void on_comboBoxMode_5_activated(int index);
 
 private:
     Ui::LoginSystem *ui;
