@@ -89,6 +89,10 @@ private slots:
     void on_creditAccount_clicked();
     void on_debitAccount_clicked();
 
+    void on_nameLabel_linkActivated(const QString &link);
+
+    void on_comboBoxMode_5_activated(int index);
+
 private:
     Ui::LoginSystem *ui;
     QString username;

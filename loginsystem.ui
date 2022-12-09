@@ -161,7 +161,7 @@
       </rect>
      </property>
      <property name="currentIndex">
-      <number>5</number>
+      <number>8</number>
      </property>
      <widget class="QWidget" name="Login">
       <widget class="QFrame" name="frame_2">
@@ -298,7 +298,7 @@ font-family: 'Droid Sans';</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -363,7 +363,7 @@ font-family: 'Droid Sans';</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -428,7 +428,7 @@ font-family: 'Droid Sans';</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -528,7 +528,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -593,7 +593,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -658,7 +658,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -906,7 +906,7 @@ Color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -971,7 +971,7 @@ Color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1036,7 +1036,7 @@ Color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1142,7 +1142,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1207,7 +1207,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1272,7 +1272,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1378,7 +1378,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1443,7 +1443,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1508,7 +1508,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1614,7 +1614,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1679,7 +1679,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1744,7 +1744,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1844,7 +1844,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1909,7 +1909,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -1974,7 +1974,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2074,7 +2074,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2139,7 +2139,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2204,7 +2204,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2304,7 +2304,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2369,7 +2369,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2434,7 +2434,7 @@ color: #fefefe;</string>
               </colorrole>
               <colorrole role="PlaceholderText">
                <brush brushstyle="SolidPattern">
-                <color alpha="255">
+                <color alpha="128">
                  <red>254</red>
                  <green>254</green>
                  <blue>254</blue>
@@ -2504,20 +2504,6 @@ color: #fefefe;</string>
            </property>
           </widget>
          </item>
-         <item>
-          <widget class="QCheckBox" name="checkBox">
-           <property name="text">
-            <string>Debit/Savings</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QCheckBox" name="checkBox_2">
-           <property name="text">
-            <string>Credit</string>
-           </property>
-          </widget>
-         </item>
         </layout>
        </widget>
       </widget>
@@ -2570,8 +2556,8 @@ font-family: 'Droid Sans';</string>
        <widget class="QPushButton" name="logoutButton">
         <property name="geometry">
          <rect>
-          <x>570</x>
-          <y>150</y>
+          <x>590</x>
+          <y>50</y>
           <width>151</width>
           <height>21</height>
          </rect>
@@ -2652,30 +2638,11 @@ font-weight: bold;</string>
          <string/>
         </property>
        </widget>
-       <widget class="QPushButton" name="editButton">
-        <property name="geometry">
-         <rect>
-          <x>570</x>
-          <y>180</y>
-          <width>151</width>
-          <height>21</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #393;
-Color: #fefefe;</string>
-        </property>
-        <property name="text">
-         <string>EDIT MY PROFILE</string>
-        </property>
-       </widget>
        <widget class="QPushButton" name="delButton">
         <property name="geometry">
          <rect>
-          <x>570</x>
-          <y>212</y>
+          <x>590</x>
+          <y>80</y>
           <width>151</width>
           <height>21</height>
          </rect>
@@ -2741,28 +2708,12 @@ font-weight: bold;</string>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
         </property>
-        <widget class="QLabel" name="loggedPic">
-         <property name="geometry">
-          <rect>
-           <x>0</x>
-           <y>0</y>
-           <width>128</width>
-           <height>128</height>
-          </rect>
-         </property>
-         <property name="styleSheet">
-          <string notr="true"/>
-         </property>
-         <property name="text">
-          <string>&lt;img src=&quot;:user.png&quot; /&gt;</string>
-         </property>
-        </widget>
        </widget>
        <widget class="QPushButton" name="adminButton">
         <property name="geometry">
          <rect>
-          <x>570</x>
-          <y>118</y>
+          <x>590</x>
+          <y>20</y>
           <width>151</width>
           <height>21</height>
          </rect>
@@ -2777,42 +2728,104 @@ Color: #fefefe;</string>
          <string>ADMIN PANEL</string>
         </property>
        </widget>
-       <widget class="QPushButton" name="creditAccount">
+       <widget class="QLabel" name="loggedUserHeader_6">
         <property name="geometry">
          <rect>
-          <x>300</x>
-          <y>180</y>
-          <width>151</width>
-          <height>21</height>
+          <x>170</x>
+          <y>70</y>
+          <width>381</width>
+          <height>41</height>
          </rect>
         </property>
+        <property name="font">
+         <font>
+          <family>Droid Sans</family>
+          <pointsize>-1</pointsize>
+         </font>
+        </property>
         <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #339;
-Color: #fefefe;</string>
+         <string notr="true">text-align: center;
+color: #393;
+margin: 0 auto;
+font-size: 35px;
+font-family: 'Droid Sans';</string>
         </property>
         <property name="text">
-         <string>Credit</string>
+         <string>Checkings Account</string>
         </property>
        </widget>
-       <widget class="QPushButton" name="debitAccount">
+       <widget class="QWidget" name="layoutWidget_6">
         <property name="geometry">
          <rect>
-          <x>300</x>
-          <y>150</y>
-          <width>151</width>
-          <height>21</height>
+          <x>170</x>
+          <y>120</y>
+          <width>401</width>
+          <height>51</height>
          </rect>
         </property>
-        <property name="styleSheet">
-         <string notr="true">Padding: 1px;
-Border-radius: 5px;
-Background: #393;
-Color: #fefefe;</string>
+        <layout class="QHBoxLayout" name="horizontalLayout_8">
+         <item>
+          <widget class="QLabel" name="labelDepositWithdrAmount_6">
+           <property name="text">
+            <string>Deposit/Withdrawal Amount:</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEditDepWithdr_6">
+           <property name="inputMask">
+            <string/>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="clearButtonEnabled">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QComboBox" name="comboBoxMode_5">
+           <property name="currentText">
+            <string/>
+           </property>
+           <property name="maxVisibleItems">
+            <number>2</number>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QPushButton" name="pushButtonSubmit_4">
+        <property name="geometry">
+         <rect>
+          <x>410</x>
+          <y>190</y>
+          <width>75</width>
+          <height>23</height>
+         </rect>
         </property>
         <property name="text">
-         <string>Debit/Savings</string>
+         <string>Submit</string>
+        </property>
+        <property name="autoDefault">
+         <bool>false</bool>
+        </property>
+        <property name="default">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QLabel" name="labelTotal_10">
+        <property name="geometry">
+         <rect>
+          <x>240</x>
+          <y>190</y>
+          <width>111</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Total: $0.00</string>
         </property>
        </widget>
        <zorder>frame_6</zorder>
@@ -2822,13 +2835,14 @@ Color: #fefefe;</string>
        <zorder>label_4</zorder>
        <zorder>nameLabel</zorder>
        <zorder>rankLabel</zorder>
-       <zorder>editButton</zorder>
        <zorder>delButton</zorder>
        <zorder>label_6</zorder>
        <zorder>emailLabel</zorder>
        <zorder>adminButton</zorder>
-       <zorder>creditAccount</zorder>
-       <zorder>debitAccount</zorder>
+       <zorder>loggedUserHeader_6</zorder>
+       <zorder>layoutWidget_6</zorder>
+       <zorder>pushButtonSubmit_4</zorder>
+       <zorder>labelTotal_10</zorder>
       </widget>
      </widget>
      <widget class="QWidget" name="page_7">
@@ -3688,7 +3702,7 @@ font-family: 'Droid Sans';</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -3753,7 +3767,7 @@ font-family: 'Droid Sans';</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -3818,7 +3832,7 @@ font-family: 'Droid Sans';</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -3924,7 +3938,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -3989,7 +4003,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4054,7 +4068,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4185,7 +4199,7 @@ Color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4250,7 +4264,7 @@ Color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4315,7 +4329,7 @@ Color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4427,7 +4441,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4492,7 +4506,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4557,7 +4571,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4669,7 +4683,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4734,7 +4748,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4799,7 +4813,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4911,7 +4925,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -4976,7 +4990,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
@@ -5041,7 +5055,7 @@ color: #fefefe;</string>
            </colorrole>
            <colorrole role="PlaceholderText">
             <brush brushstyle="SolidPattern">
-             <color alpha="255">
+             <color alpha="128">
               <red>254</red>
               <green>254</green>
               <blue>254</blue>
