@@ -20,11 +20,6 @@ This app currently has the following features:
 - Basic GUI
 
 
-## **Demo** ##
-
-Before build, you can modify the database path in 'loginsystem.cpp' or just make sure all project files are under folder 'LogSys' in Qt's default project directory.
-Login as "user", "pass" for user experience or "admin", "pass" for admin rights.
-The accounts are subject to modification in future so if these credentials don't match any rows in the database, browse the 'sys_users' table in the .s3db file.
 
 
 ## **Screenshots** ##
