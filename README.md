@@ -1,4 +1,3 @@
-# **Login System by Redhart** #
 
 This is actually my first Qt 5 project driven by SQLite3.
 I was basically cloning a PHP/MySQL authentication system I wrote earlier when I arrived at this idea.
