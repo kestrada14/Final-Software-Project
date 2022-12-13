@@ -1,0 +1,175 @@
+#include<iostream>// for std. input/output
+#include<conio.h>// for clrscr(), getch() functions
+#include<string.h> // for string operations
+#include<stdio.h> // for gets() function
+#include<string>
+#include <iterator>
+#include <map>
+#include<vector>
+#include <unordered_map>
+
+
+using namespace std;
+/* CLASS DEFINITION */
+class bank
+{
+
+    unordered_map<string, std::vector<float>> accounts;
+    public:
+    bank(){}
+    bank(string nm)  //constructor to initialize null values
+            {
+            float accno;
+                float balance;
+                std::cout<<"Opening Balance: ";
+                std::cin>>balance;
+                std::cout<<"Account number? ";
+                std::cin>>accno;
+                std::cout<<"The A/C of "<<nm<<" has been opened.\n";
+                vector<float> ad;
+                ad.push_back(balance);
+                ad.push_back(accno);
+                accounts.insert(pair<string, vector<float>>(nm, ad));
+            }
+
+            void deposit();
+            void withdraw();
+            void transfer();
+            void openacc();
+            void viewacc();
+};
+void bank::deposit()
+{
+        float amt;
+        string accname;
+        cout<<"Enter amount: ";
+        cin>>amt;
+        cout<<"Enter username: ";
+        cin>>accname;
+
+        map<string, float>::iterator it;
+        if (accounts.find(accname) != accounts.end()) {
+            accounts[accname][0] += amt;  //amt is added with existing balance
+            cout<<"Rs. "<<amt<<" has been deposited to A/C No."<<accname;
+            cout<<"\nCurrent Balance - Rs."<<accounts.at(accname)[0];
+            } else {
+                cout << "Account not found."<<endl;
+                // cout<<"Please create account.";
+                // openacc();
+                // accounts[accname][0] += amt;  //amt is added with existing balance
+            }
+   
+   
+getch();
+}
+
+void bank::withdraw()
+{
+    string accname;
+    float amt;
+    float accno;
+    cout<<"Enter amount: ";
+    cin>>amt;
+    cout<<"Enter account: ";
+    cin>>accname;
+    cout<<"Enter account number: ";
+    cin>>accno;
+    map<string, float>::iterator it;
+    if ((accounts[accname][0])>=100 && accounts.find(accname) != accounts.end()) {
+    if (accounts.find(accname) != accounts.end()) {
+    accounts[accname][0] -= amt;  //amt is substracted with existing balance
+        cout<<"Rs. "<<amt<<" has been withdrawn from A/C No."<<accno;  
+        cout<<"\nCurrent Balance: Rs."<<accounts[accname][0];
+    }
+    }else {
+            cout<<"Sorry! Amount on your account its not enough to withdraw.";
+        }
+getch(); //works for both if & else
+}
+
+void bank::transfer()
+{
+        float amt;
+
+        string accnameS;
+        string accnameR;
+    cout<<"Enter account of Sender: ";
+    cin>>accnameS;
+    cout<<"Enter account of Reciever: ";
+    cin>>accnameR;
+
+        cout<<"Sender amount to transfer: ";
+        cin>>amt;
+
+        if (accounts.find(accnameS) != accounts.end() && accounts.find(accnameR) != accounts.end() && accounts[accnameS][0] >= amt) {
+        accounts[accnameS][0] -= amt;
+        accounts[accnameR][0] += amt;
+        cout<<"Rs. "<<amt<<" has been deposited to A/C No."<<accnameR;
+        cout<<"\nCurrent Balance for "<< accnameR << accounts.at(accnameR)[0];
+        cout<<"\nCurrent Balance for "<< accnameS << accounts.at(accnameS)[0];
+    } else {
+            cout<<"Sorry! Insufficient Balance.";// account not found
+
+}
+getch();
+}
+
+void bank::openacc()
+{
+    float accno;
+    string name;
+    float balance;
+    cout<<"A/C No.: ";
+    cin>>accno;
+    cout<<"Holder User Name: ";
+    cin>>name;
+    cout<<"Opening Balance: ";
+    cin>>balance;
+    cout<<"The A/C of "<<name<<" has been opened.\n";
+    vector<float> ad;
+    ad.push_back(balance);
+    ad.push_back(accno);
+    accounts.insert(pair<string, vector<float>>(name, ad));
+getch();
+}
+
+void bank::viewacc()
+{
+    string nm;
+    cout<<"\n\nEnter Username";
+    cin>>nm;
+    cout<<"\n\n Username: ";
+    cout<<nm;
+    if (accounts.find(nm) != accounts.end()) {
+        cout<<"\n Balance: "<<accounts[nm][0];
+        cout<<"\n Account: "<<accounts[nm][1];
+    }
+}
+
+
+int main()
+{
+    int op;
+
+        bank current;
+        cout<<"E-BANKING PORTAL - Admin SESSION";
+        cout<<"\n1. Deposit \n2. Withdraw \n3. Transfer \n5. Create Account";
+        cout<<"\n4. View Account Details \n0. Logout";
+        do{
+            cout<<"\nEnter Option: ";
+            cin>>op;
+            switch(op)
+            {
+                case 1: current.deposit(); break;
+                case 2: current.withdraw(); break;
+                case 3: current.transfer(); break;
+                case 4: current.viewacc(); break;
+                case 5: current.openacc(); break;
+                case 0: cout<<"You have been sucessfully logged-out.";
+                getch(); break;
+                default: cout<<"Invalid Option. Try Again."; getch();
+}
+        cout<<endl;
+        }while(op>0);
+
+}
